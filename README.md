@@ -4,7 +4,7 @@
 
 ### Paper:
 
-S. Harase, S. Harase, "A table of short-period Tausworthe generators for Markov chain quasi-Monte Carlo", Journal of Computational and Applied Mathematics, Volume 384, 1 March 2021, 113136, 12 Pages.
+S. Harase, "A table of short-period Tausworthe generators for Markov chain quasi-Monte Carlo", Journal of Computational and Applied Mathematics, Volume 384, 1 March 2021, 113136, 12 Pages.
 <a href="https://doi.org/10.1016/j.cam.2020.113136">Online access</a>
 <a href="https://arxiv.org/abs/2002.09006">arXiv</a>
 
